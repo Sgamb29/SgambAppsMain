@@ -1,0 +1,15 @@
+[submodule "apps/AudioRecorderMp3"]
+	path = apps/AudioRecorderMp3
+	url = https://github.com/Sgamb29/AudioRecorderMp3.git
+[submodule "apps/SimpleCalorieCounter"]
+	path = apps/SimpleCalorieCounter
+	url = https://github.com/Sgamb29/SimpleCalorieCounter.git
+[submodule "apps/RandomizeMyDay"]
+	path = apps/RandomizeMyDay
+	url = https://github.com/Sgamb29/RandomizeMyDay.git
+[submodule "apps/MusicLearningGame"]
+	path = apps/MusicLearningGame
+	url = https://github.com/Sgamb29/MusicLearningGame.git
+[submodule "apps/RandomScripture"]
+	path = apps/RandomScripture
+	url = https://github.com/Sgamb29/RandomScripture.git
