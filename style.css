@@ -27,3 +27,7 @@ li {
     font-size: x-large;
     margin: 12px;
 }
+
+.description {
+    font-size: large;
+}
