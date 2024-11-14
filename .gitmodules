@@ -13,3 +13,6 @@
 [submodule "apps/RandomScripture"]
 	path = apps/RandomScripture
 	url = https://github.com/Sgamb29/RandomScripture.git
+[submodule "apps/CrazyEights"]
+	path = apps/CrazyEights
+	url = https://github.com/Sgamb29/CrazyEights.git
