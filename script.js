@@ -2,7 +2,7 @@
 
 // Traffic
 async function counterCall() {
-    const request = new Request("http://159.203.39.191:3000/", {
+    const request = new Request("https://server.sgambapps.com", {
         method: "POST",
         body: "sgambappsmain",
     });
