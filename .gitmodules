@@ -16,3 +16,6 @@
 [submodule "apps/CrazyEights"]
 	path = apps/CrazyEights
 	url = https://github.com/Sgamb29/CrazyEights.git
+[submodule "apps/SimpleDrawing"]
+	path = apps/SimpleDrawing
+	url = https://github.com/Sgamb29/SimpleDrawing.git
