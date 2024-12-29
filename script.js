@@ -4,9 +4,9 @@
 const request = new Request("https://server.sgambapps.com", {
     method: "POST",
     headers: {
-        "Content-Type": "text/plain"
+        "Content-Type": "application/json"
     },
-    body: "sgambapps",
+    body: JSON.stringify({site: "sgambapps"}),
 });
 fetch(request)
 .then(res => {
