@@ -1,7 +1,7 @@
 
 // Traffic
 
-const request = new Request("https://server.sgambapps.com", {
+const request = new Request("https://server.sgambapps.com/?site=sgambapps", {
     method: "POST",
     headers: {
         "Content-Type": "application/json"
