@@ -19,3 +19,6 @@
 [submodule "apps/SimpleDrawing"]
 	path = apps/SimpleDrawing
 	url = https://github.com/Sgamb29/SimpleDrawing.git
+[submodule "apps/EndlessTyping"]
+	path = apps/EndlessTyping
+	url = https://github.com/Sgamb29/EndlessTyping.git
