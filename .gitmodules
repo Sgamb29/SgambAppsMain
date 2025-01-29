@@ -22,3 +22,6 @@
 [submodule "apps/EndlessTyping"]
 	path = apps/EndlessTyping
 	url = https://github.com/Sgamb29/EndlessTyping.git
+[submodule "apps/EarTuner"]
+	path = apps/EarTuner
+	url = https://github.com/Sgamb29/EarTuner.git
