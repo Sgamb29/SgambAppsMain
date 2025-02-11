@@ -25,3 +25,6 @@
 [submodule "apps/EarTuner"]
 	path = apps/EarTuner
 	url = https://github.com/Sgamb29/EarTuner.git
+[submodule "apps/MathMagic"]
+	path = apps/MathMagic
+	url = https://github.com/Sgamb29/MathMagic.git
