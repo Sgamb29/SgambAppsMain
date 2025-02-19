@@ -28,3 +28,6 @@
 [submodule "apps/MathMagic"]
 	path = apps/MathMagic
 	url = https://github.com/Sgamb29/MathMagic.git
+[submodule "apps/MentalTools"]
+	path = apps/MentalTools
+	url = https://github.com/Sgamb29/MentalTools.git
