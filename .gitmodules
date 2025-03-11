@@ -1,9 +1,6 @@
 [submodule "apps/AudioRecorderMp3"]
 	path = apps/AudioRecorderMp3
 	url = https://github.com/Sgamb29/AudioRecorderMp3.git
-[submodule "apps/SimpleCalorieCounter"]
-	path = apps/SimpleCalorieCounter
-	url = https://github.com/Sgamb29/SimpleCalorieCounter.git
 [submodule "apps/RandomizeMyDay"]
 	path = apps/RandomizeMyDay
 	url = https://github.com/Sgamb29/RandomizeMyDay.git
@@ -31,3 +28,6 @@
 [submodule "apps/MentalTools"]
 	path = apps/MentalTools
 	url = https://github.com/Sgamb29/MentalTools.git
+[submodule "apps/SimpleCalorieCounter"]
+	path = apps/SimpleCalorieCounter
+	url = https://github.com/Sgamb29/SimpleCalorieCounter.git
