@@ -4,9 +4,6 @@
 [submodule "apps/RandomizeMyDay"]
 	path = apps/RandomizeMyDay
 	url = https://github.com/Sgamb29/RandomizeMyDay.git
-[submodule "apps/MusicLearningGame"]
-	path = apps/MusicLearningGame
-	url = https://github.com/Sgamb29/MusicLearningGame.git
 [submodule "apps/RandomScripture"]
 	path = apps/RandomScripture
 	url = https://github.com/Sgamb29/RandomScripture.git
@@ -31,3 +28,6 @@
 [submodule "apps/SimpleCalorieCounter"]
 	path = apps/SimpleCalorieCounter
 	url = https://github.com/Sgamb29/SimpleCalorieCounter.git
+[submodule "apps/MusicLearningGame"]
+	path = apps/MusicLearningGame
+	url = https://github.com/Sgamb29/MusicLearningGame.git
