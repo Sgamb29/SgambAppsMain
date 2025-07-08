@@ -38,7 +38,7 @@ function makeTrafficCall() {
         })
         .catch(err => console.log(err));
 
-        setCookie("lastFetch", DOTW.toString(), 10000);
+        setCookie("lastFetch", DOTW.toString(), 6);
         console.log("cookie set");
     }
 }
