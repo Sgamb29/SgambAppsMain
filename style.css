@@ -11,22 +11,50 @@ html, body {
     text-align: center;
     min-height: 100%;
     padding: 10px;
-    background: linear-gradient(90deg, green, white, green);
+    background: linear-gradient(90deg, gray, white, gray);
+    padding-bottom: 50px;
 
 }
 
 h1 {
     text-decoration: underline;
+    padding: 5px;
+    background-color: lightgreen;
+    border: solid 1px black;
 }
 
-li {
-    padding: 8px;
-    background-color: white;
+
+.category {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    flex-grow: 1;
+    justify-content: center;
+}
+
+a {
+    padding: 12px;
+    background-color: rgb(2, 156, 2);
     border: 1px solid black;
     border-radius: 25%;
     font-size: x-large;
-    margin: 12px;
+    margin: 8px;
+    color: white;
+    font-weight: bold;
 }
+
+h2 {
+    padding: 5px;
+    background-color: yellow;
+    border: solid 1px black;
+}
+
+li {
+    margin: 10px;
+    padding: 8px;
+    border: solid 1px black;
+}
+
 
 .description {
     font-size: large;
