@@ -18,7 +18,7 @@ function getCookie(name) {
 }
 
 let lastFetchCall = "";
-
+const cookieName = "lastFetchHome";
 function makeTrafficCall() {
     // Logic for fetch to only call once per day;
     const time = new Date();
@@ -38,14 +38,14 @@ function makeTrafficCall() {
         })
         .catch(err => console.log(err));
 
-        setCookie("lastFetch", DOTW.toString(), 6);
+        setCookie(cookieName, DOTW.toString(), 6);
         console.log("cookie set");
     }
 }
 
 document.addEventListener("DOMContentLoaded", () => {
     try {
-        const ld = getCookie("lastFetch");
+        const ld = getCookie(cookieName);
         lastFetchCall = ld !== "" ? parseInt(ld) : "";
         makeTrafficCall();
     } catch (e) {
