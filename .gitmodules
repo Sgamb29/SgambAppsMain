@@ -31,3 +31,6 @@
 [submodule "apps/MusicLearningGame"]
 	path = apps/MusicLearningGame
 	url = https://github.com/Sgamb29/MusicLearningGame.git
+[submodule "apps/ScaleNotes"]
+	path = apps/ScaleNotes
+	url = https://github.com/Sgamb29/ScaleNotes.git
