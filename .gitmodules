@@ -34,3 +34,6 @@
 [submodule "apps/ScaleNotes"]
 	path = apps/ScaleNotes
 	url = https://github.com/Sgamb29/ScaleNotes.git
+[submodule "apps/BodyActivation"]
+	path = apps/BodyActivation
+	url = https://github.com/Sgamb29/BodyActivation.git
