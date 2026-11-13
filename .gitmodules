@@ -1,6 +1,3 @@
-[submodule "apps/AudioRecorderMp3"]
-	path = apps/AudioRecorderMp3
-	url = https://github.com/Sgamb29/AudioRecorderMp3.git
 [submodule "apps/RandomizeMyDay"]
 	path = apps/RandomizeMyDay
 	url = https://github.com/Sgamb29/RandomizeMyDay.git
